@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/websocket (fetch)
+origin	git@github.com:skyportsystems/websocket (push)
+upstream	https://github.com/gorilla/websocket.git (fetch)
+upstream	https://github.com/gorilla/websocket.git (push)
